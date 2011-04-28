@@ -6,9 +6,11 @@ autom4te.cache
 *.la
 *.lo
 *.desktop
+.intltool-merge-cache
 INSTALL
 Makefile
 Makefile.in
+Makefile.in.in
 aclocal.m4
 compile
 config.guess
@@ -28,3 +30,6 @@ libtool
 ltmain.sh
 missing
 mkinstalldirs
+stamp-h1
+stamp-it
+POTFILES
