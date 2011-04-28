@@ -1,0 +1,8 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+_Name=Lock Keys Plugin
+_Comment=Lock Keys plugin for the Xfce panel
+Icon=xfce4-lock-keys-plugin
+X-XFCE-Module=lock-keys
+X-XFCE-Module-Path=@libdir@/xfce4/panel-plugins
