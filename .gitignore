@@ -33,3 +33,5 @@ mkinstalldirs
 stamp-h1
 stamp-it
 POTFILES
+ChangeLog
+xfce4-lock-keys-plugin-*.tar.bz2
